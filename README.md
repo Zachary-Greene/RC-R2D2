@@ -20,7 +20,7 @@ NPN Transistor (COM-00521) Sparkfun/Core Electronics x12
 4xAA Battery Holder (PRT-12083) Sparkfun/Core Electronics x1
 0.1uF Ceramic Capacitor (COM-08375) Sparkfun/Core Electronics x1
 
-# Controller PCB
+## Controller PCB
 ATmega328P Digikey x1
 LD1117V33 (COM-00526) Sparkfun/Core Electronics x1
 Thumb Joystick (COM-09032) Sparkfun/Core Electronics x2
