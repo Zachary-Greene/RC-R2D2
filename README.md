@@ -11,5 +11,22 @@ First solder the components on to the PCB, making sure that they are the right w
 ## Programming
 Plug the ATmega328P into a programmer and burn the bootloader if it doesnt already have one. Then upload the corresponding sketch and put the IC in the proper socket.
 
+## Parts
+# Main PCB
+ATmega328P Digikey x1
+LD1117V33 (COM-00526) Sparkfun/Core Electronics x1
+NRF24L01 x1
+NPN Transistor (COM-00521) Sparkfun/Core Electronics x12
+4xAA Battery Holder (PRT-12083) Sparkfun/Core Electronics x1
+0.1uF Ceramic Capacitor (COM-08375) Sparkfun/Core Electronics x1
+
+# Controller PCB
+ATmega328P Digikey x1
+LD1117V33 (COM-00526) Sparkfun/Core Electronics x1
+Thumb Joystick (COM-09032) Sparkfun/Core Electronics x2
+NRF24L01 x1
+4xAA Battery Holder (PRT-12083) Sparkfun/Core Electronics x1
+
+
 ## License
 See LICENSE.md
