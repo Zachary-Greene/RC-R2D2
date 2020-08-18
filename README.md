@@ -1,6 +1,6 @@
 # Mini Remote Control R2D2
 
-This repo is for my mini remote control R2D2 project. It will include all the stl files, all the code files, and the f3d (Fusion 360) file. It also includes some Fusion 360 renders and some extra images.
+This repo is for my mini remote control R2D2 project. It includes all the stl files, all the code files, and the f3d (Fusion 360) file. It also includes some Fusion 360 renders and some extra images.
 
 ## Prerequisites
 All you need is access to a 3D printer, some skills with through-hole soldering and the parts needed.
@@ -26,6 +26,9 @@ Plug the ATmega328P into a programmer and burn the bootloader if it doesnt alrea
 * Thumb Joystick (COM-09032) Sparkfun/Core Electronics x2
 * NRF24L01 x1
 * 4xAA Battery Holder (PRT-12083) Sparkfun/Core Electronics x1
+
+## Renders
+![alt text](https://raw.githubusercontent.com/Zachary-Greene/RC-R2D2/master/Images/R2D2%20Render%20(2-3-2).PNG "R2D2 2-3-2 Configuration")
 
 ## License
 See LICENSE.md
