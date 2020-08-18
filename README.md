@@ -29,6 +29,7 @@ Plug the ATmega328P into a programmer and burn the bootloader if it doesnt alrea
 
 ## Renders
 ![alt text](https://raw.githubusercontent.com/Zachary-Greene/RC-R2D2/master/Images/R2D2%20Render%20(2-3-2).PNG "R2D2 2-3-2 Configuration")
+![alt text](https://raw.githubusercontent.com/Zachary-Greene/RC-R2D2/master/Images/R2D2%20Render%20(2-2).png "R2D2 2-2 Configuration")
 
 ## License
 See LICENSE.md
