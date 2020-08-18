@@ -1,6 +1,6 @@
 # Mini Remote Control R2D2
 
-This repo is for my mini remote control R2D2 project. It includes all the stl files, all the code files, and the f3d (Fusion 360) file. It also includes some Fusion 360 renders and some extra images.
+This repo is for my mini remote control R2D2 project. It will include all the stl files, all the code files, and the f3d (Fusion 360) file. It also includes some Fusion 360 renders and some extra images.
 
 ## Prerequisites
 All you need is access to a 3D printer, some skills with through-hole soldering and the parts needed.
