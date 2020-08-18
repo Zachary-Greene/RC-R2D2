@@ -11,8 +11,8 @@ First solder the components on to the PCB, making sure that they are the right w
 ## Programming
 Plug the ATmega328P into a programmer and burn the bootloader if it doesnt already have one. Then upload the corresponding sketch and put the IC in the proper socket.
 
-## Parts
-# Main PCB
+# Parts
+## Main PCB
 ATmega328P Digikey x1
 LD1117V33 (COM-00526) Sparkfun/Core Electronics x1
 NRF24L01 x1
