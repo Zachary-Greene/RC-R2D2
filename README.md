@@ -18,7 +18,11 @@ Plug the ATmega328P into a programmer and burn the bootloader if it doesnt alrea
 * NRF24L01 x1
 * NPN Transistor (COM-00521) Sparkfun/Core Electronics x12
 * 4xAA Battery Holder (PRT-12083) Sparkfun/Core Electronics x1
+#### The following is for an optional speaker system
 * 0.1uF Ceramic Capacitor (COM-08375) Sparkfun/Core Electronics x1
+* 1.25K Ohm Resistor Digikey x1
+* 8 Ohm Speaker x1
+* DFPlayer Mini (DFR0299) Core Electronics x1
 
 ### Controller PCB
 * ATmega328P Digikey x1
